@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sidharthtech
-- 👀 I’m interested in anime
+- 👀 I’m interested in anime, nature, traveling and gaming
 - 🌱 I’m currently learning computer engineering
 - 💞️ I’m looking to collaborate on Python projects
 - 📫 How to reach me sidharthhl2004@gmail.com
